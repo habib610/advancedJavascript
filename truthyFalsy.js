@@ -1,5 +1,6 @@
 // Falsy
 //0
+//null
 //false
 // undefined 
 // NaN
